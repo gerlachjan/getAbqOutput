@@ -9,3 +9,6 @@ abaqus cae script=getAbqOutput.py
 ````
 2. Extracted data is stored in `./output`
 
+
+# Automatic CSYS generation
+![](doc/create_local_CSYS.gif)
