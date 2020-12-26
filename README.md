@@ -11,4 +11,4 @@ abaqus cae script=getAbqOutput.py
 
 
 # Automatic CSYS generation
-![](doc/create_local_CSYS.gif)
+![](doc/CSYS_generation.gif)
